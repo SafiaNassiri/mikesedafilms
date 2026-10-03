@@ -65,8 +65,8 @@ export const TIERS = [
 
 export const CONTACT = {
   email: "youremail@domain.com",
-  instagram: "https://www.instagram.com/christinademerzi",
-  handle: "@christinademerzi",
+  instagram: "https://www.instagram.com/mikeseda_films",
+  handle: "@mikeseda_films",
   formspree: "https://formspree.io/f/YOUR_FORM_ID", // paste your Formspree URL
 };
 
