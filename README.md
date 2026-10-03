@@ -1,4 +1,4 @@
-# MikeSedaFilmseda | Concert & Band Photography
+# MikeSedaFilms | Concert & Band Photography
 
 Portfolio site built with React and Vite. Four pages: a filterable photo gallery, video work, services and booking, and an about page.
 
